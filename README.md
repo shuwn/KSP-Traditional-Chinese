@@ -7,7 +7,7 @@
 
 > 所有繁體中文化向下相容舊版本，但不支援新版本(新版本會造成部分亂碼)
 
-本繁體中文化是基於坎巴拉太空計畫**簡體中文版、英文版**進行轉換、翻譯，口語部分盡可能符合台灣日常用語習慣，如果對於語句中有詞不達意亦或者有更好的名詞替換，歡迎到 [GitHub Issue](https://github.com/shuwn/KSP-Traditional-Chinese/issues) 回報給我，謝謝！～
+本繁體中文化是基於坎巴拉太空計畫**簡體中文版、英文版**進行轉換、翻譯，口語部分盡可能符合台灣日常用語習慣，但是仍有部分內容用語還沒有翻的很完善，後續會持續修正(預計資料片釋出後會再進行更新)，如果對於語句中有詞不達意亦或者有更好的名詞替換，歡迎到 [GitHub Issue](https://github.com/shuwn/KSP-Traditional-Chinese/issues) 回報給我，謝謝！～
 
 [Download](https://github.com/shuwn/KSP-Traditional-Chinese/archive/0.0.1.zip)
 
