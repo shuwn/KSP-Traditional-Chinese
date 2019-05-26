@@ -8,6 +8,9 @@
 
 本繁體中文化是基於坎巴拉太空計畫**簡體中文版、英文版**進行轉換、翻譯，口語部分盡可能符合台灣日常用語習慣，如果對於語句中有詞不達意亦或者有更好的名詞替換，歡迎到 [GitHub Issue](https://github.com/shuwn/KSP-Traditional-Chinese/issues) 回報給我，謝謝！～
 
+[Download](https://github.com/shuwn/KSP-Traditional-Chinese/archive/0.0.1.zip)
+
+
 ## 安装
 
 ### Windows
