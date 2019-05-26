@@ -1,10 +1,11 @@
 # 坎巴拉太空計畫繁體中文化
 
+[![GitHub issues][issues-image]][issues-url]
+[![license MIT][license-image]][license-url]
+
 > 本繁體中文化適用於 Kerbal Space Program V1.7 版
 
 > 所有繁體中文化向下相容舊版本，但不支援新版本(新版本會造成部分亂碼)
-
- [![GitHub issues][issues-image]][issues-url] [![license MIT][license-image]][license-url]
 
 本繁體中文化是基於坎巴拉太空計畫**簡體中文版、英文版**進行轉換、翻譯，口語部分盡可能符合台灣日常用語習慣，如果對於語句中有詞不達意亦或者有更好的名詞替換，歡迎到 [GitHub Issue](https://github.com/shuwn/KSP-Traditional-Chinese/issues) 回報給我，謝謝！～
 
@@ -54,3 +55,12 @@
 #### Added
 
 * 初始版本釋出
+
+
+<!-- Badges Link -->
+
+[issues-url]: https://github.com/shuwn/KSP-Traditional-Chinese/issues
+[issues-image]: https://img.shields.io/github/issues/52cik/github-hans.svg
+
+[license-url]: https://opensource.org/licenses/MIT
+[license-image]: https://img.shields.io/badge/license-MIT-blue.svg
