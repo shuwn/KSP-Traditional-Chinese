@@ -62,7 +62,7 @@
 <!-- Badges Link -->
 
 [issues-url]: https://github.com/shuwn/KSP-Traditional-Chinese/issues
-[issues-image]: https://img.shields.io/github/issues/52cik/github-hans.svg
+[issues-image]: https://img.shields.io/bitbucket/issues/shuwn/KSP-Traditional-Chinese.svg
 
 [license-url]: https://opensource.org/licenses/MIT
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
