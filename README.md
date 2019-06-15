@@ -3,7 +3,7 @@
 [![GitHub issues][issues-image]][issues-url]
 [![license MIT][license-image]][license-url]
 
-> 本繁體中文化適用於 Kerbal Space Program V1.7.1 版
+> 本繁體中文化適用於 Kerbal Space Program V1.7.2 版
 
 > 所有繁體中文化向下相容舊版本，但不支援新版本(新版本會造成部分亂碼)
 
@@ -51,6 +51,17 @@
 所有的顯著變更都記錄在更新日誌之中
 
 本日誌遵循 [Keep a Changelog](https://keepachangelog.com/zh-TW/1.0.0) 格式
+
+### [v1.7.2 - 0.0.3] - 2019-06-01
+
+#### Added
+
+配合 1.7.2 更新進行中文化修訂
+
+#### Fiex
+
+1. 錯字修訂
+2. 用詞修訂
 
 ### [v1.7.1 - 0.0.2] - 2019-06-01
 
