@@ -9,7 +9,7 @@
 
 本繁體中文化是基於坎巴拉太空計畫**簡體中文版、英文版**進行轉換、翻譯，口語部分盡可能符合台灣日常用語習慣，但是仍有部分內容用語還沒有翻的很完善，後續會持續修正(預計資料片釋出後會再進行更新)，如果對於語句中有詞不達意亦或者有更好的名詞替換，歡迎到 [GitHub Issue](https://github.com/shuwn/KSP-Traditional-Chinese/issues) 回報給我，謝謝！～
 
-[Download](https://github.com/shuwn/KSP-Traditional-Chinese/releases/download/0.0.3/V1.7.2.zip)
+[Download]([V1.7.2-0.0.4.zip]https://github.com/shuwn/KSP-Traditional-Chinese/releases/download/0.0.4/V1.7.2-0.0.4.zip)
 
 
 ## 安装
@@ -52,7 +52,14 @@
 
 本日誌遵循 [Keep a Changelog](https://keepachangelog.com/zh-TW/1.0.0) 格式
 
-### [v1.7.2 - 0.0.3] - 2019-06-01
+### [v1.7.2 - 0.0.4] - 2019-06-27
+
+#### Fiex
+
+1. 修正遺失
+2. 錯字修訂
+
+### [v1.7.2 - 0.0.3] - 2019-06-15
 
 #### Added
 
