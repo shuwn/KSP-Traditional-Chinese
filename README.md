@@ -3,11 +3,15 @@
 [![GitHub issues][issues-image]][issues-url]
 [![license MIT][license-image]][license-url]
 
-> 本繁體中文化適用於 Kerbal Space Program V1.10 版
+![](https://shuwn.dev/2021/07/13/坎巴拉太空計畫繁體中文化-for-v1.12/KSP%20for%20web.jpg)
 
-本繁體中文化是基於坎巴拉太空計畫**簡體中文版、英文版**進行轉換、翻譯，口語部分盡可能符合台灣日常用語習慣，但是仍有部分內容用語還沒有翻的很完善，後續會持續修正(預計資料片釋出後會再進行更新)，如果對於語句中有詞不達意亦或者有更好的名詞替換，歡迎到 [GitHub Issue](https://github.com/shuwn/KSP-Traditional-Chinese/issues) 回報給我，謝謝！～
+> 本繁體中文化適用於 Kerbal Space Program V1.12 版
 
-[Download V1.10-0.1](https://shuwn.dev/download-ksp)
+V1.12 為坎巴拉太空計畫最後一版的更新，本次繁體中文化是基於坎巴拉太空計畫**簡體中文版、英文版**進行轉換、翻譯，口語部分盡可能符合台灣日常用語習慣，如果對於語句中有詞不達意亦或者有更好的名詞替換，歡迎到 [GitHub Issue](https://github.com/shuwn/KSP-Traditional-Chinese/issues) 回報給我，謝謝！～
+
+<!-- more -->
+
+[Download V1.12](https://shuwn.dev/download-ksp)
 
 
 ## 安装
@@ -50,6 +54,12 @@
 
 本日誌遵循 [Keep a Changelog](https://keepachangelog.com/zh-TW/1.0.0) 格式
 
+### [v1.12 - 0.1] - 2021-07-13
+
+#### Added
+
+   配合 1.12 更新進行中文化修訂
+
 ### [v1.10 - 0.1] - 2020-07-23
 
 #### Added
@@ -62,7 +72,7 @@
 
    配合 1.9 更新進行中文化修訂
 
-### [v1.8 - 0.0.6] - 2019-10-23
+### [v1.8 - 0.0.1] - 2019-10-22
 
 #### Added
 
